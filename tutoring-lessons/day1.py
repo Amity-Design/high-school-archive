@@ -1,13 +1,13 @@
-from nltk.chat.util import Chat, reflections
+#*from nltk.chat.util import Chat, reflections
 
-pairs = [
-    ["hi|hello", ["Hello!", "Hi there!"]],
-    ["how are you?", ["I'm fine, thanks!", "Doing well, what about you?"]],
-    ["quit", ["Goodbye!", "See you later!"]]
-]
-
-chatbot = Chat(pairs, reflections)
-chatbot.converse()
+#pairs = [
+#    ["hi|hello", ["Hello!", "Hi there!"]],
+#    ["how are you?", ["I'm fine, thanks!", "Doing well, what about you?"]],
+#    ["quit", ["Goodbye!", "See you later!"]]
+#]
+#
+#chatbot = Chat(pairs, reflections)
+#chatbot.converse()
 
 
 #this is my 1st comment exercise
